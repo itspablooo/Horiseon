@@ -2,11 +2,13 @@
 
 ## Description
 
-The purpose of this project is to refactor the existing code base for better search engine optimization, accessability, and code readability.
+The purpose of this project is to refactor the existing code base for better search engine optimization, accessability, and code readability without changing the sites UI/UX.
 
-## Recources Used 
+## Deployed Site 
+
+https://itspablooo.github.io/Horiseon/
 
 
+## Contributions 
 
-## Link to Deployed Site
-
+Horiseon site code provided by ASU Boot Camp 
